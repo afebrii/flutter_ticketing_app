@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286146639568",
+    "project_id": "fic22-ticketing-app",
+    "storage_bucket": "fic22-ticketing-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286146639568:android:92a508b735700a55b3d0d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ticketing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286146639568-f1lh1gb1lop3tqbn9s17rf5b5hca80r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_ticketing_app",
+            "certificate_hash": "de1a99bcedb6dd348a84f1c8d4fe39ea5530fb80"
+          }
+        },
+        {
+          "client_id": "286146639568-f1t0ffivqiop5foaaa23o0a0alngq3ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-7I9xdLMKGqGh1IjoSiiOzK-KH4PQO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286146639568-f1t0ffivqiop5foaaa23o0a0alngq3ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
